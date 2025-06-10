@@ -8,16 +8,13 @@
 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/SOC-5-Fall19.git/master)
-[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]( https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FSOC-5-Fall19.git&urlpath=tree%2FSOC-5-Fall19%2F)
+[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FSOC-5-Fall19&branch=master&urlpath=lab%2Ftree%2FSOC-5-Fall19%2F)
 
 
 Exploration of concepts of statistics using data from the General Social Survey.
 
 **Developers: Ankita Dhingra, Kseniya Usovich, Keilyn Yuzuki, Karla Palos Castellanos**
 
-
-
-[Interact link (needs UC Berkeley Calnet ID)](hhttps://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FSOC-5-Fall19.git&urlpath=tree%2FSOC-5-Fall19%2F))
 
 ### Data
 | Notebook        | Data File       | Data Source      | Reason for Use         |
